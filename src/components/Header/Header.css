@@ -1,0 +1,14 @@
+.header{
+    position: relative;
+    display: flex;
+    z-index: 50;
+    background-color: cadetblue;
+    padding: 1%;
+    justify-content: center;
+    box-shadow:0px 2px 5px;
+}
+
+.button{
+    border-radius: 2px;
+    padding: 1%;
+}

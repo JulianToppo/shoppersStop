@@ -1,0 +1,16 @@
+.form{
+    position: relative;
+    margin: 4%;
+    display: flex;
+    justify-content: space-around;
+    
+    
+}
+
+.form-items{
+    display:flex;
+    justify-content: space-evenly;
+    margin:2px;
+    justify-content: center;
+    
+}
